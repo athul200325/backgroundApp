@@ -1,0 +1,19 @@
+.min-vh-100 {
+    min-height: 100vh;
+  }
+  
+  .btn {
+    font-weight: 700;
+    margin-top: 450px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+  body{
+    background-size: cover;
+  }
+  
+  
+  
